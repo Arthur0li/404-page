@@ -44,4 +44,52 @@ Challenge proposed by **Rocketseat**.
 - Website: https://www.rocketseat.com.br/
 - GitHub: https://github.com/rocketseat-education
 
+---
+---
+---
+
+# 🚧 Página 404
+
+Uma página **404 - Página Não Encontrada** desenvolvida com HTML e CSS como parte de um desafio semanal da Rocketseat.
+
+O projeto tem como objetivo criar uma página de erro moderna, responsiva e agradável para o usuário, utilizando boas práticas de HTML semântico, CSS e uma animação com Lottie.
+
+## ✨ Funcionalidades
+
+- Layout responsivo
+- Interface moderna
+- Animação com Lottie
+- Integração com Google Fonts
+- Página personalizada de erro 404
+- Desenvolvido apenas com HTML e CSS
+
+## 🛠️ Tecnologias
+
+- HTML5
+- CSS3
+- Google Fonts
+- LottieFiles
+
+## 📚 O que foi praticado
+
+- HTML semântico
+- Flexbox
+- Design responsivo
+- Estilização com CSS
+- Implementação de uma interface a partir de um protótipo no Figma
+- Integração de animações e recursos externos
+
+## 🎨 Design
+
+Este projeto foi desenvolvido a partir do design disponibilizado no desafio semanal da Rocketseat.
+
+- Figma: https://www.figma.com/community/file/1258418121860696031/P%C3%A1gina-404-%E2%80%A2-Desafio-27
+
+## 🙌 Créditos
+
+Desafio proposto pela **Rocketseat**.
+
+- Site: https://www.rocketseat.com.br/
+- GitHub: https://github.com/rocketseat-education
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5D1E8A&section=footer"/>
