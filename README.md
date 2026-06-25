@@ -1,19 +1,47 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=5D1E8A&text=404%20page&textBg=false&animation=fadeIn&fontColor=F2EBFF"/>
 
-Isso é um projeto do desafio da semana do rocketseat!
+# 🚧 404 Error Page
 
+A responsive **404 - Page Not Found** page built with HTML and CSS as part of a Rocketseat weekly challenge.
 
-Ideia do projeto: https://www.figma.com/community/file/1258418121860696031/P%C3%A1gina-404-%E2%80%A2-Desafio-27
-Rocketseat: https://www.rocketseat.com.br/
-GitHub da Rocketseat: https://github.com/rocketseat-education
+The project focuses on creating a clean, modern, and user-friendly error page with a responsive layout, smooth styling, and a Lottie animation to improve the user experience.
 
-------------
+## ✨ Features
 
-This is a rocketseat challenge of the week project!
+- Responsive layout
+- Modern UI
+- Lottie animation
+- Google Fonts integration
+- Custom 404 page
+- Pure HTML & CSS
 
+## 🛠️ Technologies
 
-Project idea: https://www.figma.com/community/file/1258418121860696031/P%C3%A1gina-404-%E2%80%A2-Desafio-27
-Rocketseat: https://www.rocketseat.com.br/
-Rocketseat GitHub: https://github.com/rocketseat-education
+- HTML5
+- CSS3
+- Google Fonts
+- LottieFiles
+
+## 📚 What I Practiced
+
+- Semantic HTML
+- Flexbox layout
+- Responsive design
+- CSS styling
+- UI implementation from a Figma design
+- Working with external assets and animations
+
+## 🎨 Design
+
+This project was developed from the design provided in the Rocketseat Weekly Challenge.
+
+- Figma Design: https://www.figma.com/community/file/1258418121860696031/P%C3%A1gina-404-%E2%80%A2-Desafio-27
+
+## 🙌 Credits
+
+Challenge proposed by **Rocketseat**.
+
+- Website: https://www.rocketseat.com.br/
+- GitHub: https://github.com/rocketseat-education
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5D1E8A&section=footer"/>
