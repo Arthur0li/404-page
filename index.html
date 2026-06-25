@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -7,20 +7,26 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="src/css/reset.css">
     <link rel="stylesheet" href="src/css/style.css">
 
-    <title>Erro</title>
+    <title>404 - Page Not Found</title>
 </head>
 
 <body>
     <div id="app">
         <main>
-            <h1>Ops, essa página não foi encontrada</h1>
-            <p>Parece que você se perdeu... Tente voltar para a página anterior ou acessar a home.</p>
+            <h1>Oops! This page couldn't be found.</h1>
+
+            <p>
+                It looks like you've taken a wrong turn. Try going back to the previous page
+                or return to the homepage.
+            </p>
+
             <div class="button">
-                <a class="btn" href="#">Voltar</a>
-                <a class="btn" href="#">Ir para a Home</a>
+                <a class="btn" href="javascript:history.back()">Go Back</a>
+                <a class="btn" href="/">Home</a>
             </div>
         </main>
 
@@ -32,9 +38,15 @@
             </svg>
 
             <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-            <lottie-player src="https://lottie.host/ab7a5c4d-d0de-4877-be5e-8cffedab2bf1/f7kJBYBWYz.json"
-                background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
 
+            <lottie-player
+                src="https://lottie.host/ab7a5c4d-d0de-4877-be5e-8cffedab2bf1/f7kJBYBWYz.json"
+                background="transparent"
+                speed="1"
+                style="width: 300px; height: 300px;"
+                loop
+                autoplay>
+            </lottie-player>
 
             <svg width="81" height="107" viewBox="0 0 81 107" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path
